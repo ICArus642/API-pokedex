@@ -43,7 +43,7 @@ Ideal para practicar consumo de APIs REST, manipulación del DOM y diseño respo
 
 ## Créditos
 
-**Datos:** PokeAPI
-**Sprites e imágenes:** Propiedad de The Pokémon Company / Nintendo.
+- **Datos:** PokeAPI
+- **Sprites e imágenes:** Propiedad de The Pokémon Company / Nintendo.
 
 
