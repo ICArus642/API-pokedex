@@ -35,9 +35,15 @@ Ideal para practicar consumo de APIs REST, manipulación del DOM y diseño respo
   │ └─ (iconos, logos)
   └─ README.md
 ```
+## Pantalla
+<p align="center">
+  <img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/de27adce-5980-43b1-b7b8-2153cd308bf4">
+</p>
+
 
 ## Créditos
 
 **Datos:** PokeAPI
 **Sprites e imágenes:** Propiedad de The Pokémon Company / Nintendo.
+
 
